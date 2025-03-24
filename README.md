@@ -27,13 +27,13 @@ Neste exercício, você irá:
 1. Clique com o botão direito em **Copiar Exercício** e abra o link em uma nova aba.
 
    <a id="copy-exercise">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-AAA" height="25pt"/>
+      <img src="https://img.shields.io/badge/📠_Copy_Exercise-AA0000" height="25pt"/>
    </a>
 
 2. Na nova aba, a maioria dos campos será preenchida automaticamente.
 
    - Para proprietário, escolha sua conta pessoal ou uma organização para hospedar o repositório.
-   - Recomendamos criar um repositório público, pois repositórios privados utilizarão [minutos do Actions](https://docs.github.chttps://github.com/Roger-Monterio-Bezerra/invillia-exercicio-github-copilot-novato/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+   - Recomendamos criar um repositório público, pois repositórios privados utilizarão [minutos do Actions](https://docs.github.com/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    - Role a página para baixo e clique no botão **Create repository** no fim do formulário.
 
 3. Após a criação do seu novo repositório, aguarde cerca de 20 segundos para que o exercício seja preparado e os botões sejam atualizados. Você continuará trabalhando na sua cópia do exercício.
