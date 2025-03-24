@@ -27,7 +27,7 @@ Neste exercício, você irá:
 1. Clique com o botão direito em **Copiar Exercício** e abra o link em uma nova aba.
 
    <a id="copy-exercise">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-AA0000" height="25pt"/>
+      <img src="https://img.shields.io/badge/📠_Copy_Exercise-f01c05" height="25pt"/>
    </a>
 
 2. Na nova aba, a maioria dos campos será preenchida automaticamente.
